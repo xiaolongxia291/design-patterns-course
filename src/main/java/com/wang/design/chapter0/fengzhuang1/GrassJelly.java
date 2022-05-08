@@ -1,7 +1,9 @@
-package com.wang.design.chapter0;
+package com.wang.design.chapter0.fengzhuang1;
 
 /**
  * @author Tracy
+ *
+ * 0-1 封装
  */
 public class GrassJelly {
     //属性
