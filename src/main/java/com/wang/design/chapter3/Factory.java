@@ -2,7 +2,7 @@ package com.wang.design.chapter3;
 
 /**
  * @author tracy
- * 3——工厂模式——工厂类
+ * 3——工厂模式
  */
 public interface Factory {
     Passenger create(int x,int y);

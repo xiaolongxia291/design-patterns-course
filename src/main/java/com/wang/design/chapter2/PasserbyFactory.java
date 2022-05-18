@@ -3,7 +3,7 @@ package com.wang.design.chapter2;
 /**
  * @author Tracy
  *
- * 2-2 创建型——原型模式——克隆工厂
+ * 2-2 创建型——原型模式
  */
 public class PasserbyFactory {
     //单例饿汉模式先创建一个Passerby原型

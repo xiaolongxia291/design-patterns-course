@@ -1,4 +1,4 @@
-package com.wang.design.chapter0.jicheng2;
+package com.wang.design.chapter0;
 
 /**
  * @author Tracy

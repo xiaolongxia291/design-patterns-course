@@ -1,4 +1,4 @@
-package com.wang.design.chapter0.fengzhuang1;
+package com.wang.design.chapter0;
 
 /**
  * @author Tracy

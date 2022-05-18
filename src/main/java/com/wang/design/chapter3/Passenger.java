@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * @author tracy
- * 3——工厂模式——乘客实体类
+ * 3——工厂模式
  */
 public class Passenger {
     private int x,y;

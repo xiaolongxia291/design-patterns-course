@@ -2,7 +2,7 @@ package com.wang.design.chapter5;
 
 /**
  * @author tracy
- * 5-门面模式-不使用门面模式
+ * 5-门面模式
  */
 public class Client1 {
     public static void main(String[] args) {

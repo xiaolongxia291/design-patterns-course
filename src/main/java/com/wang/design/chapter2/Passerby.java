@@ -3,7 +3,7 @@ package com.wang.design.chapter2;
 /**
  * @author Tracy
  *
- * 2-1 创建型——原型模式——克隆对象
+ * 2-1 创建型——原型模式
  */
 public class Passerby implements Cloneable{
     // x坐标和y坐标

@@ -1,8 +1,8 @@
-package com.wang.design.chapter0.duotai3;
+package com.wang.design.chapter0;
 
-import com.wang.design.chapter0.jicheng2.Airplane;
-import com.wang.design.chapter0.jicheng2.Bus;
-import com.wang.design.chapter0.jicheng2.Vehicle;
+import com.wang.design.chapter0.Airplane;
+import com.wang.design.chapter0.Bus;
+import com.wang.design.chapter0.Vehicle;
 
 /**
  * @author Tracy

@@ -1,7 +1,7 @@
 package com.wang.design.chapter3;
 
 /**
- * 3-工厂模式-客户端
+ * 3-工厂模式
  */
 public class Client {
     public static void main(String[] args) {
