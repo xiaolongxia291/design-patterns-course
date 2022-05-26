@@ -1,11 +1,11 @@
-package com.wang.design.chapter12;
+package com.wang.design.chapter13;
 
 import java.util.Iterator;
 
 /**
  * @author tracy
  *
- * 12-迭代器模式
+ * 13-迭代器模式
  */
 public class DriverRecorder implements Iterable<String>{
     private String[] records=new String[10];//最多存储10条记录
